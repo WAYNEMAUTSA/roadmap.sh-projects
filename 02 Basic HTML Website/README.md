@@ -8,13 +8,23 @@ https://roadmap.sh/projects/basic-html-website
 
 # Objectives 
 
-Semantic HTML: Use appropriate HTML tags to structure your CV.
+In this project, you are required to create a simple HTML only website with multiple pages. The website should have following pages:
 
-SEO Meta Tags: Include essential meta tags for SEO.
+Homepage
 
-Open Graph (OG) Tags: Add OG tags for better social media sharing.
+Projects
 
-Favicon: Add a favicon for your CV page
+Articles
+
+Contact
+
+Semantically correct HTML structure.
+
+Multiple pages with a navigation bar.
+
+SEO meta tags in the head of each page.
+
+Contact page should have a form with fields like name, email, message etc
 
 # Output
 
