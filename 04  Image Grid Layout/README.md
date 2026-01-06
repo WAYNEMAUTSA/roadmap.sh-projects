@@ -1,6 +1,6 @@
 # Image Grid Layout
 
-![The Image of the Simple html website](/03%20Date%20Picker%20Ui/)
+![The Image of the Simple html website](/04%20%20Image%20Grid%20Layout/Project-img.png)
 
 # Project URL
 
