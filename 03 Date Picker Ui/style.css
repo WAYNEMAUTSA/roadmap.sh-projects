@@ -1,0 +1,36 @@
+body{
+    background-image: url('background.jpg');
+    background-position: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-repeat: no-repeat;
+    color: #ffffff;
+}
+.calender{
+    position:relative;
+    justify-items: center;
+    align-items: center;
+    margin-top: 350px;
+    font-size: 30px;
+    padding: 0;
+}
+table{
+    border-collapse: collapse;
+    box-shadow: 0 4px 8px 0 #00000033, 0 6px 20px 0 #00000030;
+}
+th,td{
+    padding: 10px 15px;
+    text-align: center;
+    border: #ffffff 0.2px solid;
+}
+input{
+    width: 80%;
+    height: 40px;
+    font-size: 20px;
+    background-color: transparent;
+    color: #ffffff;
+}
+svg{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+}
