@@ -1,6 +1,6 @@
-# Roadmap Date Picker UI
+# Image Grid Layout
 
-![The Image of the Simple html website](/03%20Date%20Picker%20Ui/DatePickerUi.png)
+![The Image of the Simple html website](/03%20Date%20Picker%20Ui/)
 
 # Project URL
 
