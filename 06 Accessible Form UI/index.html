@@ -1,12 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <link rel="stylesheet" href="style.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Accessible Form Ui</title>
 </head>
-<body>
 
+<body>
+    <div class="container">
+        <div class="left-container">
+            <form action="#">
+                <label for="Full Name">Full Name</label><br>
+                <input type="text" for="Full Name"><br>
+                <label for="Email">Email</label><br>
+                <input type="text" for="Email"><br>
+                <label for="Password">Password</label><br>
+                <input type="text" for="Password"><br>
+                <label for="Confirm-Password">Confirm Password</label><br>
+                <input type="text" for="Confirm-Password"><br>
+                <button type="submit">Update Profile</button>
+            </form>
+        </div>
+
+        <div class="right-container">
+            <div class="progress-bar">
+                <div class="progress"></div>
+            </div>
+            <p>Profile Completeness</p>
+            <dl class="List-items">
+                <dd><del>Create Account</del></dd>
+                <dd><del>Update Roadmap Progress</del></dd>
+                <dd><del>Setup Public Profile </del></dd>
+                <dd>Complete Your Profile</dd>
+                <dd>Invite Friends</dd>
+            </dl>
+        </div>
+    </div>
 </body>
+
 </html>
