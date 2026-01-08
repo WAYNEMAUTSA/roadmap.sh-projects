@@ -13,23 +13,25 @@
         <div class="left-container">
             <form action="#">
                 <label for="Full Name">Full Name</label><br>
-                <input type="text" for="Full Name"><br>
+                <input type="text" for="Full Name" required><br>
                 <label for="Email">Email</label><br>
-                <input type="text" for="Email"><br>
-                <label for="Password">Password</label><br>
-                <input type="text" for="Password"><br>
+                <input type="email" for="Email" required><br>
+                <label for="Password" >Password</label><br>
+                <input type="password" for="Password" required><br>
                 <label for="Confirm-Password">Confirm Password</label><br>
-                <input type="text" for="Confirm-Password"><br>
+                <input type="password" for="Confirm-Password" required><br>
                 <button type="submit">Update Profile</button>
             </form>
         </div>
 
         <div class="right-container">
-            <div class="progress-bar">
-                <div class="progress"></div>
+            <div class="progress-ring">
+                <div class="ring">
+                    <span>65%</span>
+                </div>
             </div>
             <p>Profile Completeness</p>
-            <dl class="List-items">
+            <dl class="list-items">
                 <dd><del>Create Account</del></dd>
                 <dd><del>Update Roadmap Progress</del></dd>
                 <dd><del>Setup Public Profile </del></dd>
